@@ -7,3 +7,6 @@
 
 Моҗно использовать например в PHP:     
 if(!setlocale(LC_TIME, 'tt_RU@az.UTF-8')) error_log("Locale not found in ".__FILE__." at ".__LINE__);
+
+
+license GPL 3.0
